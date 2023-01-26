@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maaz FahadShafiq</h1>
+<h1 align="center">Hi 👋, I'm Maaz Fahad Shafiq</h1>
 <h3 align="center">Front-end developer 👨‍💻</h3>
 <h5 align="center">I also love to code using different languages and frameworks.</h5>
 <h6 align="center">Full Stack Engineer to be!</h6>
