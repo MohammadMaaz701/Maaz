@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Maaz Safdar</h1>
-<h3 align="center">Front-end developer 👨‍💻</h3>
-<h5 align="center">I also love to code using different languages and frameworks.</h5>
+<h1 align="center">Hi 👋, I'm Maaz </h1>
+<h3 align="center">Front-End Developer 👨‍💻</h3>
+<h5 align="center">I Also Love To Code Using Diiferent Languages And Frameworks</h5>
 <h6 align="center">Full Stack Engineer to be!</h6>
 
 <p align="center">
